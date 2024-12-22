@@ -10,6 +10,8 @@ Use discussions here to develop and improve the scene of FOSS / Open Hardware fo
 
 - [ESP-RFID](https://github.com/esprfid/esp-rfid)
   - "ESP8266 RFID (RC522, PN532, Wiegand, RDM6300) Access Control system featuring WebSocket, JSON, NTP Client, Javascript, SPIFFS"
+  - [ESP32-RFID](https://github.com/pvtex/esp32-rfid)
+    - "ESP32, Ethernet, and almost all of the above"
   - [ESP RFID Micro-Python](https://github.com/esprfid/esp-rfid-py)
     - "minimal, works with ESP32 as well as others"
 
@@ -43,7 +45,7 @@ Use discussions here to develop and improve the scene of FOSS / Open Hardware fo
    - ".NET, SBC, minimal viable system, web management, OSDP"
   
 - [Leosac Access Control](https://github.com/leosac/access-control)
-  - "SBC, "
+  - "SBC, C#, Wiegand"
   - [LAC Web Frontend](https://github.com/leosac/access-control-web)
 
 ## Specific Catagories
