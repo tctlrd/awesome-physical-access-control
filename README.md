@@ -20,7 +20,7 @@ Use discussions here to develop and improve the scene of FOSS / Open Hardware fo
 - [NFC Lock](https://github.com/rambo/nfc_lock)
   - "(more) secure electric lock with DESFire EV1 NFC tags"
 
--[Elmue Encrypted NFC Desfire Door Lock](https://www.codeproject.com/articles/1096861/diy-electronic-rfid-door-lock-with-battery-backup)
+- [Encrypted NFC Desfire Door Lock](https://www.codeproject.com/articles/1096861/diy-electronic-rfid-door-lock-with-battery-backup)
   - [Desfire Arduino Library](https://github.com/rambo/elmue_desfire_rfid)
 
  - [Open Access Control for Hacker Spaces - Ethernet Branch](https://github.com/heatsynclabs/Open_Access_Control_Ethernet)
@@ -35,7 +35,7 @@ Use discussions here to develop and improve the scene of FOSS / Open Hardware fo
   - [ESP-RFID Door Fleet Management](https://github.com/i3detroit/door-management)
   - [Based on Open Access Control 3.0](https://github.com/abzman/RFID-entry-system)
 
--  [RFID_Wiegand_MQTT](https://github.com/nygma2004/RFID_Wiegand_MQTT)
+- [RFID_Wiegand_MQTT](https://github.com/nygma2004/RFID_Wiegand_MQTT)
    -  "ESP8266, iButton, RFID, Wiegand, MQTT, node-red"
    -  [Video Demo](https://www.youtube.com/watch?v=ft3YiPXy4ck)
 
