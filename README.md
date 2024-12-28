@@ -1,17 +1,19 @@
 # Awesome Physical Access Control
 
-Documenting open source systems for physical access control of buildings.  
-These are systems managing access via electric locks and digital authentication for entrance via RFID, NFC, Bluetooth, PINs, Biometrics...  
+Cataloging open source systems for physical access control of buildings and land.  
+These are systems managing access to properties using barriars, electric locks, and digital authentication for entrance via RFID, NFC, Bluetooth, PINs, Biometrics...  
 
 Mention anything we are missing with a PR or Issue.  
 Use discussions here to develop and improve the scene of FOSS / Open Hardware for physical access control.  
 
- ## The Projects
+ ## Existing Projects
 
 - [ESP-RFID](https://github.com/esprfid/esp-rfid)
   - "ESP8266 RFID (RC522, PN532, Wiegand, RDM6300) Access Control system featuring WebSocket, JSON, NTP Client, Javascript, SPIFFS"
   - [ESP32-RFID](https://github.com/pvtex/esp32-rfid)
     - "ESP32, Ethernet, and almost all of the above"
+  - [ESP32-ACTL](/tctlrd/ESP32-ACTL)
+    - "ESP-RFID and ESP32-RFID with some refinement and desfire support"
   - [ESP RFID Micro-Python](https://github.com/esprfid/esp-rfid-py)
     - "minimal, works with ESP32 as well as others"
 
@@ -32,7 +34,7 @@ Use discussions here to develop and improve the scene of FOSS / Open Hardware fo
    - [OAC HTTP Minimal Edition](https://github.com/zyphlar/open-access-control-minimal-http)
 
 - [i3 Detriot RFID entry systems](https://www.i3detroit.org/wi/index.php?title=RFID_entry_system)
-  - "moved from OAC to ESP-RFID and added to both projects" 
+  - "mi3 mved from OAC to ESP-RFID and added to both projects" 
   - [How to program a key](https://www.i3detroit.org/wiki/HOWTO_Program_a_key)
   - [ESP-RFID Door Fleet Management](https://github.com/i3detroit/door-management)
   - [Based on Open Access Control 3.0](https://github.com/abzman/RFID-entry-system)
@@ -43,14 +45,23 @@ Use discussions here to develop and improve the scene of FOSS / Open Hardware fo
 
  - [Aporta](https://github.com/bytedreamer/Aporta)
    - ".NET, SBC, minimal viable system, web management, OSDP"
-  
+
 - [Leosac Access Control](https://github.com/leosac/access-control)
-  - "SBC, C#, Wiegand"
+  - "C#, SBC, Wiegand"
   - [LAC Web Frontend](https://github.com/leosac/access-control-web)
+
+
+## Educational Material
+
+- [ACCX Wiki](https://www.accxproducts.com/wiki)
 
 ## Specific Catagories
 
 ### Mifare Desfire
 
 - [Desfire enabled Arduino Library MFRC522 RC522](https://github.com/JPG-Consulting/rfid-desfire)
-- 
+
+
+## tags
+
+#open-source #business #open-hardware #locks #rfid #nfc #awesome-list #home-assistant #access-control #makerspace #defense #multi-factor-authentication #building-automation #security-automation #physical-security #business-security #self-reliance #physical-access-control-system #home-automation #iot
