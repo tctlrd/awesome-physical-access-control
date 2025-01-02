@@ -55,12 +55,10 @@ Use discussions here to develop and improve the scene of FOSS / Open Hardware fo
 
 - [ACCX Wiki](https://www.accxproducts.com/wiki)
 
-## Specific Catagories
-
-### Mifare Desfire
+## Libraries
 
 - [Desfire enabled Arduino Library MFRC522 RC522](https://github.com/JPG-Consulting/rfid-desfire)
-
+- [C++ RFID / NFC Library. For PC/SC, NFC, ISO compliant.](https://github.com/liblogicalaccess/liblogicalaccess)
 
 ## tags
 
