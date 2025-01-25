@@ -12,7 +12,7 @@ Use discussions here to develop and improve the scene of FOSS / Open Hardware fo
   - "ESP8266 RFID (RC522, PN532, Wiegand, RDM6300) Access Control system featuring WebSocket, JSON, NTP Client, Javascript, SPIFFS"
   - [ESP32-RFID](https://github.com/pvtex/esp32-rfid)
     - "ESP32, Ethernet, and almost all of the above"
-  - [ESP32-ACTL](/tctlrd/ESP32-ACTL)
+  - [ESP32-ACTL](https://codeberg.org/tctlrd/esp32-actl) - [github mirror](https://github.com/tctlrd/esp32-actl)
     - "ESP-RFID and ESP32-RFID with some refinement and desfire support"
   - [ESP RFID Micro-Python](https://github.com/esprfid/esp-rfid-py)
     - "minimal, works with ESP32 as well as others"
