@@ -54,6 +54,7 @@ Use discussions here to develop and improve the scene of FOSS / Open Hardware fo
 ## Educational Material
 
 - [ACCX Wiki](https://www.accxproducts.com/wiki)
+- [OnlySecurity RFID and Access Control learning path](https://onlysecurity.com/learning-paths/rfid-access-control/)
 
 ## Libraries
 
