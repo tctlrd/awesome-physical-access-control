@@ -50,6 +50,9 @@ Use discussions here to develop and improve the scene of FOSS / Open Hardware fo
   - "C#, SBC, Wiegand"
   - [LAC Web Frontend](https://github.com/leosac/access-control-web)
 
+- [AffixIO Door Scanner](https://github.com/AffixIO/affixio-door-scanner)
+  - "Android, Kotlin, single-use ticket QR codes and 6-digit door codes, works with handheld scanners (Zebra, Honeywell, Datalogic, Sunmi) or the camera, needs an AffixIO API key"
+
 
 ## Educational Material
 
