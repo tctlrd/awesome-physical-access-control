@@ -58,6 +58,8 @@ Use discussions here to develop and improve the scene of FOSS / Open Hardware fo
 
 - [ACCX Wiki](https://www.accxproducts.com/wiki)
 - [OnlySecurity RFID and Access Control learning path](https://onlysecurity.com/learning-paths/rfid-access-control/)
+- [RFID Attack Matrix (RAM)](https://redteam.vip/ram)
+- [Access Control Bit Decoder](https://redteam.vip/access-control-bit-decoder)
 
 ## Libraries
 
