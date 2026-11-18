@@ -10,7 +10,7 @@ Use discussions here to develop and improve the scene of FOSS / Open Hardware fo
 
 - [door-api by HeatSync Labs](https://github.com/heatsynclabs/door-api)
   - "One REST API over HeatSync's door controllers (UHPPOTE/UT0311 and the legacy Open Access Arduino) behind a driver adapter layer."
-  - uses a @uhppote library
+  - uses a @uhppoted library
 
 - [uhppoted - open source project](https://codeberg.org/uhppoted/uhppoted)
   - "uhppoted implements a set of cross-platform building blocks for access control systems based on the UHPPOTE UT0311-L0x TCP/IP Wiegand access control boards."
