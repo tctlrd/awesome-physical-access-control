@@ -8,6 +8,17 @@ Use discussions here to develop and improve the scene of FOSS / Open Hardware fo
 
  ## Existing Projects
 
+- [door-api by HeatSync Labs](https://github.com/heatsynclabs/door-api)
+  - "One REST API over HeatSync's door controllers (UHPPOTE/UT0311 and the legacy Open Access Arduino) behind a driver adapter layer."
+  - uses a @uhppote library
+
+- [uhppoted - open source project](https://codeberg.org/uhppoted/uhppoted)
+  - "uhppoted implements a set of cross-platform building blocks for access control systems based on the UHPPOTE UT0311-L0x TCP/IP Wiegand access control boards."
+  - library language bindings "NodeJS, Python, Rust, Zig, Erlang, PHP, Lua
+  - [uhppoted-breakout](https://codeberg.org/uhppoted/uhppoted-breakout) "Breakout board for the UHPPOTE TCP/IP Wiegand 26 access controllers. The breakout board substitutes the removable CPU board with a hackable board."
+  - [uhppoted-wiegand](https://codeberg.org/uhppoted/uhppoted-wiegand) "uhppoted-wiegand implements a RaspberryPi RP2040 based reader/emulator for a Wiegand-26 interface"
+
+
 - [ESP-RFID](https://github.com/esprfid/esp-rfid)
   - "ESP8266 RFID (RC522, PN532, Wiegand, RDM6300) Access Control system featuring WebSocket, JSON, NTP Client, Javascript, SPIFFS"
   - [ESP32-RFID](https://github.com/pvtex/esp32-rfid)
