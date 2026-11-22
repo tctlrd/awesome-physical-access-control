@@ -14,6 +14,9 @@ Use discussions here to develop and improve the scene of FOSS / Open Hardware fo
   - [uhppoted-breakout](https://codeberg.org/uhppoted/uhppoted-breakout) "Breakout board for the UHPPOTE TCP/IP Wiegand 26 access controllers. The breakout board substitutes the removable CPU board with a hackable board."
   - [uhppoted-wiegand](https://codeberg.org/uhppoted/uhppoted-wiegand) "uhppoted-wiegand implements a RaspberryPi RP2040 based reader/emulator for a Wiegand-26 interface"
 
+- [PiDoors - Open Source Access Control System](https://github.com/sybethiesant/pidoors/)
+  - "PiDoors is a complete, industrial-grade access control system built on Raspberry Pi hardware. It provides enterprise-level security features while remaining affordable and open source. Designed for small businesses, makerspaces, office buildings, or anyone needing professional access control."
+
 - [HeatSync Labs](https://github.com/heatsynclabs/door-api)
   - [door-api](https://github.com/heatsynclabs/door-api) "One REST API over HeatSync's door controllers (UHPPOTE/UT0311 and the legacy Open Access Arduino) behind a driver adapter layer - uses a [uhppoted](/uhppoted) library.
   - [Open-Source-Access-Control-Web-Interface](https://github.com/heatsynclabs/Open-Source-Access-Control-Web-Interface) "Web software for managing a database of members in a collaborative grassroots workshop, and also controlling Arclight of 23b Hackerspace's Arduino access control system via Ethernet"
