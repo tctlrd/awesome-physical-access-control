@@ -17,6 +17,9 @@ Use discussions here to develop and improve the scene of FOSS / Open Hardware fo
 - [PiDoors - Open Source Access Control System](https://github.com/sybethiesant/pidoors/)
   - "PiDoors is a complete, industrial-grade access control system built on Raspberry Pi hardware. It provides enterprise-level security features while remaining affordable and open source. Designed for small businesses, makerspaces, office buildings, or anyone needing professional access control."
 
+- [stone-age.io stone-access](https://github.com/stone-age-io/access-control)
+  - "stone-access is a standalone, NATS-native physical access control (PACS) app built on the Stone-Age.io platform. It does RBAC door control with schedules, deny-override and edge autonomy, using the platform's primitives: NATS core, KV, JetStream and a PocketBase control plane."
+
 - [HeatSync Labs](https://github.com/heatsynclabs/door-api)
   - [door-api](https://github.com/heatsynclabs/door-api) "One REST API over HeatSync's door controllers (UHPPOTE/UT0311 and the legacy Open Access Arduino) behind a driver adapter layer - uses a [uhppoted](/uhppoted) library.
   - [Open-Source-Access-Control-Web-Interface](https://github.com/heatsynclabs/Open-Source-Access-Control-Web-Interface) "Web software for managing a database of members in a collaborative grassroots workshop, and also controlling Arclight of 23b Hackerspace's Arduino access control system via Ethernet"
