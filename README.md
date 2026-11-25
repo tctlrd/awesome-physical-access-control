@@ -1,6 +1,6 @@
 # Awesome Physical Access Control
 
-Cataloging open source systems for physical access control of buildings and land.  
+Cataloging open source systems for physical access control ("PACS") of buildings and land.  
 These are systems managing access to properties using barriars, electric locks, and digital authentication for entrance via RFID, NFC, Bluetooth, PINs, Biometrics...  
 
 Mention anything we are missing with a PR or Issue.  
